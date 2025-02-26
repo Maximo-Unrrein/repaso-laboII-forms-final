@@ -1,0 +1,12 @@
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\bin\Debug\net6.0\Entidades.deps.json
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\bin\Debug\net6.0\Entidades.dll
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\bin\Debug\net6.0\Entidades.pdb
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\Entidades.dll
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\Entidades.pdb
+W:\PROGRAMACION\CSharp\2025\repaso-final\Final.LabII_finales--renombar_con_apellido.nombre\Entidades\obj\Debug\net6.0\ref\Entidades.dll
